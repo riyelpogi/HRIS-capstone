@@ -1,0 +1,1 @@
+<img src="/storage/hrislogo/HRIS.png" alt="" class="w-12 h-12 rounded-full">
